@@ -1,0 +1,59 @@
+body{
+
+    background-image: radial-gradient(to left, rgba(123, 75, 75, 0), rgb(84, 145, 214));
+
+}
+
+table{
+
+    margin-top: 81px;
+
+    border: 2px solid;
+
+    padding: 36px;
+
+    border-radius: 6px;
+
+    box-shadow: 5px 10px #839bd3;
+
+}
+
+
+
+.btn{
+
+    width: 120px;
+
+    height: 31px;
+
+    border-radius: 6px;
+
+    background-color: rgb(178 178 230);
+
+}
+
+input{
+
+    background-color: transparent;
+
+    border-color: black;
+
+    border: 1px solid;
+
+ 
+
+}
+
+textarea{
+
+    border-color: black;  
+
+    background-color: transparent;
+
+}
+
+.btn:hover{
+
+    background-color: rgb(102, 102, 173);  
+
+}
